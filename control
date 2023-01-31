@@ -1,5 +1,5 @@
 Package: com.alexburneikis.haptickeys
-Name: haptickeys15
+Name: Haptic Keys 15
 Version: 0.0.1
 Architecture: iphoneos-arm
 Description: Adds haptic feedback on key presses
